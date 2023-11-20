@@ -1,1 +1,4 @@
-data
+labeled_data.csv
+*.png
+*.pdf
+*.csv
