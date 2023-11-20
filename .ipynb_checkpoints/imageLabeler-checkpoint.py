@@ -95,3 +95,6 @@ class ImageLabeler:
             writer = csv.writer(file)
             writer.writerow([self.image_path, label, coords])
 
+
+# Directly load "test.png"
+ImageLabeler('Josh/CMC_CCM_2018_01_30_23_39_33_5586076040C.png')
