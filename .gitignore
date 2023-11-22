@@ -1,1 +1,10 @@
 labeled_data.csv
+
+# ignore the data folder
+data/
+
+# ignore the .ipynb_checkpoints folder
+.ipynb_checkpoints/
+
+# ignore the pycache folder
+__pycache__/
